@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: firas-portfolio
+  description: Personal portfolio built with Next.js and DevOps tools
+spec:
+  type: website
+  lifecycle: experimental
+  owner: group:default/guests
